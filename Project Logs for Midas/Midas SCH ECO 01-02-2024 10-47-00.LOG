@@ -1,0 +1,6 @@
+Remove Pin=U1-26 From Net=SDA/SDI
+Remove Pin=U1-29 From Net=SCL/SCK
+Remove Pin=U2-4 From Net=SCL/SCK
+Remove Pin=U2-6 From Net=SDA/SDI
+Remove Pin=U3-1 From Net=VBAT
+Remove Pin=U3-2 From Net=GNDBAT

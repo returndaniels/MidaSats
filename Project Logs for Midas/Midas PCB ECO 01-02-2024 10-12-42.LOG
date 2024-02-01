@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GNDBAT Pin=BT1-NEG
+Removed Pin From Net: NetName=GNDBAT Pin=BT2-POS
+Added Component: Designator=B?(815-0931)
+Add component (AddParameter): Name = "Category"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/4/815-0931-datasheet-4327.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/4/815-0931-datasheet-4327.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Memory Protection Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "815-0931"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1,32, 10=1,116, 50=0,9816, 100=0,9251, 250=0,85124, 500=0,79912, 1000=0,747, 2500=0,67751, 5000=0,62539 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "10403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "815-0931-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_NEG Pin=BT1-NEG
+Added Pin To Net: NetName=NetBT1_NEG Pin=BT2-POS
+Added Net: Name=NetBT1_NEG
+Added Member To Class: ClassName=Midas Member=Component B? BATT HOLDER 1/2AA
+Added Member To Class: ClassName=Midas Member=Component BT1 815-0931
