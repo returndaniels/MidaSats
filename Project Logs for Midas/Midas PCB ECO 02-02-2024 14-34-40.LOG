@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=TCK/SCK Pin=U1-8
+Added Pin To Net: NetName=TCK/SCK Pin=U2-4
+Added Net: Name=TCK/SCK
+Added Pin To Net: NetName=TDO/SDI Pin=U1-9
+Added Pin To Net: NetName=TDO/SDI Pin=U2-6
+Added Net: Name=TDO/SDI

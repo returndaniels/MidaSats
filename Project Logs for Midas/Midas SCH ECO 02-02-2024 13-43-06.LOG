@@ -1,0 +1,5 @@
+Remove Pin=U1-8 From Net=TCK/SCK
+Remove Pin=U1-9 From Net=TDO/SDI
+Remove Pin=U2-4 From Net=TCK/SCK
+Remove Pin=U2-6 From Net=TDO/SDI
+Remove Pin=U3-1 From Net=VCC
