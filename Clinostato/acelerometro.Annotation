@@ -1,0 +1,17 @@
+[DesignatorManager]
+LogicalDesignator0=U1
+LogicalPartID0=1
+DocumentName0=acelerometro.SchDoc
+ChannelName0=acelerometro
+UniqueID0=\QHGVIWQF
+PhysicalDesignator0=U?
+PhysicalDesignatorLocked0=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=Sheet1.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+
+
